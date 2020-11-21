@@ -71,6 +71,7 @@ p {
 }
 
 .menu {
+    float: left;
     font-family: sans-serif;
     position:fixed;
     top: 0px;
